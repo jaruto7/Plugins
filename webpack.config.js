@@ -52,7 +52,7 @@ module.exports = (env) => {
                     ]
                 }
             ]
-        }
-    }
-    plugins
+        },
+        plugins
+    } 
 };
